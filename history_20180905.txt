@@ -1,0 +1,18 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  sh
+    5  who
+    6  pwd
+    7  man pwd
+    8  whoami
+    9  pwd
+   10  ls
+   11  ls-l
+   12  ls -l
+   13  ls -a
+   14  ls -l
+   15  ls -a
+   16  ls -lat
+   17  history
+   18  history > history_20180905.txt
