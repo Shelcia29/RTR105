@@ -65,3 +65,11 @@ echo "Teksts
    49  ls -l
    50  rm *3*.txt
 51 ls -l
+52 &PATH
+53 echo &PATH
+54 git clone
+55 echo "mkdir Mape"
+56 echo "mkdir Mape" > mans_skripts.sh
+57 cat mans_skripts.sh
+58 nano mans_skripts.sh
+59 cat /bin/ls
